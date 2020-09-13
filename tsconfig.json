@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "module": "CommonJS",
+    "outDir": ".",
+    "sourceMap": true
+  },
+  "include": ["index.js"],
+  "exclude": ["node_modules"]
+}

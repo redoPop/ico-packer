@@ -1,0 +1,38 @@
+{
+  "name": "ico-packer",
+  "version": "1.0.0",
+  "description": "Node lib to create ICO files containing PNG images.",
+  "main": "index.js",
+  "scripts": {
+    "publish": "tsc",
+    "test": "tape index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redoPop/ico-packer.git"
+  },
+  "keywords": [
+    "ico",
+    "icon",
+    "favicon"
+  ],
+  "author": {
+    "name": "Joe Bartlett",
+    "email": "joe@redopop.com",
+    "url": "https://redopop.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redoPop/ico-packer/issues"
+  },
+  "homepage": "https://github.com/redoPop/ico-packer#readme",
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
+  "devDependencies": {
+    "@types/node": "^14.10.0",
+    "tape": "^5.0.1",
+    "typescript": "^4.0.0"
+  }
+}
