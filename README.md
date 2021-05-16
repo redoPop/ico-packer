@@ -1,4 +1,4 @@
-# ico-packer [![NPM Version](https://img.shields.io/npm/v/ico-packer.svg?style=flat)](https://npmjs.org/package/ico-packer) [![Build Status](https://travis-ci.org/redoPop/ico-packer.svg?branch=master)](https://travis-ci.org/redoPop/ico-packer)
+# ico-packer [![NPM Version](https://img.shields.io/npm/v/ico-packer.svg?style=flat)](https://npmjs.org/package/ico-packer) [![CI Status](https://github.com/redoPop/ico-packer/workflows/CI/badge.svg?branch=main)](https://github.com/redoPop/ico-packer/actions?query=workflow%3ACI+branch%3Amain)
 Node lib to create ICO files containing PNG images:
 ```js
 const fs = require('fs');
