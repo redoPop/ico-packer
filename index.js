@@ -1,5 +1,3 @@
-const fs = require('fs');
-
 const ICONDIR_HEADER_SIZE = 6;
 const ICONDIR_ENTRY_SIZE = 16;
 const PNG_HEADER = Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]);
